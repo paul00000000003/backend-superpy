@@ -74,7 +74,7 @@ def print_helplist():
 
     console.print(
         "For details on functional specifications please read superpy.py.docx ", style="red on white")
-    print("dependencies : matploblib 1.19.5")
+    print("dependencies : matploblib 3.3.3")
     print("               rich 9.8,2")
     print("               argparse 1.4.0")
     print("               datetime 4.3")
